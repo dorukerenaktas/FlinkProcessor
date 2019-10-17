@@ -1,0 +1,12 @@
+<rules>
+    <rule window="1000">
+        <name>CPU Controller</name>
+        <condition>
+            <company>EBAY</company>
+            <product>STRAWBERRY,BOX</product>
+        </condition>
+        <action>
+            <operation>EMAIL</operation>
+        </action>
+    </rule>
+</rules>
